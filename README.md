@@ -1,6 +1,8 @@
 # HACK-MAX
 اداة اختبار اختراق انستا + فيس بوك صنعت لأجل الاختبار فقط
-تحديث & ملائمة ترقية
+git clone https://github.com/WEAVERMAX/HACK-MAX.git
+ls
+cd Hack-MAX
 ls
 chmod +x *
 python3 MAX1.py
